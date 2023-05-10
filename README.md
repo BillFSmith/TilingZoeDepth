@@ -1,7 +1,9 @@
 # Tiling ZoeDepth outputs for higher resolution
 
 This is an adapted version of https://colab.research.google.com/github/isl-org/ZoeDepth/blob/main/notebooks/ZoeDepth_quickstart.ipynb
+
 Corresponding paper : [ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth](https://arxiv.org/abs/2302.12288v1)
+
 
 Here, higher resolution depth maps are generated from the following process:
     Generate a depth map for the overall image
