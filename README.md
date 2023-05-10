@@ -8,15 +8,12 @@ Corresponding paper : [ZoeDepth: Zero-shot Transfer by Combining Relative and Me
 
 Here, higher resolution depth maps are generated from the following process:
 
-    Generate a depth map for the overall image
-    
-    Split original image into overlapping tiles
-    
-    Generate depth maps for the tiles
-    
-    Reassemble into a single depth map by applying gradient masks and average weighting from first depth map    
-    Repeat steps 2-4 at higher resolution
-    Combine all three depth maps by:
+1)  Generate a depth map for the overall image    
+2)  Split original image into overlapping tiles    
+3)  Generate depth maps for the tiles    
+4)  Reassemble into a single depth map by applying gradient masks and average weighting from first depth map    
+5)  Repeat steps 2-4 at higher resolution
+6)  Combine all three depth maps by:
         Calculate edge filter from original RGB image
         Blur edge filter and use as mask for high resolution depth map
         Apply masked high resolution to average of low and medium resolution depth maps
