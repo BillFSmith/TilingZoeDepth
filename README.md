@@ -1,6 +1,6 @@
 # Tiling ZoeDepth outputs for higher resolution
 
-Colab here: https://colab.research.google.com/drive/1taTL_8GVx1G93ZXp_o-s4FLL-SY6N8TC?usp=sharing
+Colab here: https://colab.research.google.com/drive/1taTL_8GVx1G93ZXp_o-s4FLL-SY6N8TC
 
 This is an adapted version of https://colab.research.google.com/github/isl-org/ZoeDepth/blob/main/notebooks/ZoeDepth_quickstart.ipynb
 
