@@ -1,7 +1,11 @@
 # Tiling ZoeDepth outputs for higher resolution
+v3 has a more reliable upload system for larger files. Can take multiple files at once.
+https://colab.research.google.com/drive/1Wi-1Ji_fhcoGpK-drT4dVrl5AjfVUQ5M
 
+v2 has a GUI and STL generation
 New Colab here: https://colab.research.google.com/drive/1wbbXpMC_UUwE3e7Tifq9fYNnd5Rn0zna
 
+v1 is broken into sections
 Previous version: https://colab.research.google.com/drive/1taTL_8GVx1G93ZXp_o-s4FLL-SY6N8TC
 
 This is an adapted version of https://colab.research.google.com/github/isl-org/ZoeDepth/blob/main/notebooks/ZoeDepth_quickstart.ipynb
