@@ -1,4 +1,7 @@
 # Tiling ZoeDepth outputs for higher resolution
+v4 is experimental and uses Lotus Depth
+https://colab.research.google.com/drive/1C9gAdMezh3b0O_yXuQpIunSasoP1BzSz
+
 v3 has a more reliable upload system for larger files. Can take multiple files at once:
 
 https://colab.research.google.com/drive/1Wi-1Ji_fhcoGpK-drT4dVrl5AjfVUQ5M
